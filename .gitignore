@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# Google Cloud Functions
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
